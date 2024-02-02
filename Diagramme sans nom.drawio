@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-02T09:56:48.483Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="br8gie6rMJha731hS7yL" version="23.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-02T10:56:51.548Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="pg84HCJYtGEIpqw10RHX" version="23.1.1" type="github">
   <diagram name="Page-1" id="X3BSy1AXnNIJYgLMuxTV">
-    <mxGraphModel dx="17140" dy="12260" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#000000" math="0" shadow="0">
+    <mxGraphModel dx="5987" dy="6147" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#000000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -180,7 +180,7 @@
         <mxCell id="boGWfHhM4qapHuOB5cl8-57" value="" style="group" vertex="1" connectable="0" parent="boGWfHhM4qapHuOB5cl8-52">
           <mxGeometry y="4" width="1708" height="314.13" as="geometry" />
         </mxCell>
-        <mxCell id="boGWfHhM4qapHuOB5cl8-58" value="&lt;font color=&quot;#fcfcfc&quot;&gt;Entrer votre&amp;nbsp;&lt;br&gt;premier traitement:&lt;br&gt;Médicament&lt;br&gt;&lt;/font&gt;" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#B54B00;rotation=0;strokeColor=none;labelBackgroundColor=none;fontColor=#000000;" vertex="1" parent="boGWfHhM4qapHuOB5cl8-57">
+        <mxCell id="boGWfHhM4qapHuOB5cl8-58" value="&lt;font color=&quot;#fcfcfc&quot;&gt;Traitement:&lt;br&gt;Entrer votre&amp;nbsp;&lt;br&gt;premier traitement:&lt;br&gt;Médicament&lt;br&gt;&lt;/font&gt;" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#B54B00;rotation=0;strokeColor=none;labelBackgroundColor=none;fontColor=#000000;" vertex="1" parent="boGWfHhM4qapHuOB5cl8-57">
           <mxGeometry y="23" width="191" height="291.13" as="geometry" />
         </mxCell>
         <mxCell id="boGWfHhM4qapHuOB5cl8-59" value="&lt;font color=&quot;#fcfcfc&quot;&gt;Entrer votre&amp;nbsp;&lt;br&gt;premier traitement:&lt;br&gt;Fréquence&lt;br&gt;&lt;/font&gt;" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#B54B00;rotation=0;strokeColor=none;labelBackgroundColor=none;fontColor=#000000;" vertex="1" parent="boGWfHhM4qapHuOB5cl8-57">
